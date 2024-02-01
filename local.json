@@ -1,0 +1,17 @@
+[
+  {
+    "username": "lavan",
+    "password": "$2b$10$N4yjXPBV5yEmHhiKvbZeSOylVipxmWgqRH9FeWHP.0Pm4WPwI.0c.",
+    "DOB": "12-01-1999"
+  },
+  {
+    "username": "Adicherla",
+    "password": "$2b$10$exqdVqVoLraYNKL/Bh9PgOlFLMAsf.WMzOvW6PLgh7fxP3uVfiSpm",
+    "DOB": "12-01-1999"
+  },
+  {
+    "username": "sai",
+    "password": "$2b$10$006tAyxyoU.YGfSdMpM/7.ZWpclqfM/jDfaK6UZRGakkp8w0/MkWy",
+    "DOB": "12-01-1999"
+  }
+]
